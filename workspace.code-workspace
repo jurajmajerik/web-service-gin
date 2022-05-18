@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../blog"
+		},
+		{
+			"path": "../server"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
